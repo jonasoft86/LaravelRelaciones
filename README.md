@@ -8,3 +8,9 @@ Many To Many
 Has Many Through
 Polymorphic Relations
 Many To Many Polymorphic Relations
+
+<ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>
