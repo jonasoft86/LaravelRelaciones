@@ -1,16 +1,12 @@
 # LaravelRelaciones
 Implementaciones de distintos tipos de relaciones de Base de datos con ORM
 
-One To One
-One To Many
-One To Many (Inverse)
-Many To Many
-Has Many Through
-Polymorphic Relations
-Many To Many Polymorphic Relations
-
 <ul>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
+  <li>One To One</li>
+  <li>One To Many</li>
+  <li>One To Many (Inverse)</li>
+  <li>Many To Many</li>
+  <li>Has Many Through</li>
+  <li>Polymorphic Relations</li>
+  <li>Many To Many Polymorphic Relations</li>
 </ul>
